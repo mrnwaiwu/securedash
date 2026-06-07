@@ -4,6 +4,11 @@
 - Planned: real-time alert notifications
 - Planned: user role management
 
+## [1.2.1] - 2026-06-07
+- Minor improvements to alert deduplication logic
+- Refactored metric aggregation for lower memory usage
+- Updated dependency versions for security patches
+
 ## [1.2.0] - 2026-06-04
 - Added exportable PDF reports for dashboard snapshots
 - Improved widget loading performance with lazy data fetching
