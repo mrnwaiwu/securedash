@@ -4,6 +4,12 @@
 - Planned: real-time alert notifications
 - Planned: user role management
 
+## [1.2.2] - 2026-06-14
+- Added per-widget refresh interval configuration in dashboard settings
+- Fixed stale data display when switching between metric views
+- Improved error boundary handling for failed widget data fetches
+- Added keyboard shortcut support for dashboard panel navigation
+
 ## [1.2.1] - 2026-06-07
 - Minor improvements to alert deduplication logic
 - Refactored metric aggregation for lower memory usage
