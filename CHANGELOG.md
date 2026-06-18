@@ -4,6 +4,12 @@
 - Planned: real-time alert notifications
 - Planned: user role management
 
+## [1.2.3] - 2026-06-18
+- Added customizable widget layout drag-and-drop persistence across sessions
+- Fixed timezone display mismatch on time-series metric charts
+- Improved initial dashboard load time by deferring off-screen widget rendering
+- Added severity filter chips to the alerts overview panel
+
 ## [1.2.2] - 2026-06-14
 - Added per-widget refresh interval configuration in dashboard settings
 - Fixed stale data display when switching between metric views
