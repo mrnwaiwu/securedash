@@ -4,6 +4,11 @@
 - Planned: real-time alert notifications
 - Planned: user role management
 
+## [1.2.4] - 2026-06-21
+- Minor improvements to alert panel rendering stability
+- Updated dependency versions for security patches
+- Small fixes to metric chart tooltip positioning
+
 ## [1.2.3] - 2026-06-18
 - Added customizable widget layout drag-and-drop persistence across sessions
 - Fixed timezone display mismatch on time-series metric charts
