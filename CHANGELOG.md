@@ -4,6 +4,12 @@
 - Planned: real-time alert notifications
 - Planned: user role management
 
+## [1.2.5] - 2026-06-24
+- Added user session timeout indicator to dashboard header
+- Fixed duplicate alert entries appearing after rapid filter toggling
+- Improved metric card rendering performance on low-resolution displays
+- Added tooltips to severity badge icons for accessibility
+
 ## [1.2.4] - 2026-06-21
 - Minor improvements to alert panel rendering stability
 - Updated dependency versions for security patches
