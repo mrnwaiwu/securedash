@@ -4,6 +4,12 @@
 - Planned: real-time alert notifications
 - Planned: user role management
 
+## [1.2.6] - 2026-06-28
+- Added multi-source alert correlation view to reduce notification fatigue
+- Fixed panel overflow rendering issue on ultrawide monitor resolutions
+- Improved chart interpolation for sparse time-series data sets
+- Added configurable alert severity thresholds per individual dashboard widget
+
 ## [1.2.5] - 2026-06-24
 - Added user session timeout indicator to dashboard header
 - Fixed duplicate alert entries appearing after rapid filter toggling
